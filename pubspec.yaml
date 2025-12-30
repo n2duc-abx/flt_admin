@@ -1,7 +1,7 @@
 name: flt_admin
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/n2duc-abx/flt_admin
 
 environment:
   sdk: ^3.10.4
